@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiprod3p1", "Wiprod3p1\Wiprod3p1.csproj", "{BDAEB955-AF90-4DAC-B061-ADCF8721F73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro-d3-p2", "Wipro-d3-p2\Wipro-d3-p2.csproj", "{7A0CCC13-01CC-4D31-A10F-7DA6DDAAA3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAEB955-AF90-4DAC-B061-ADCF8721F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAEB955-AF90-4DAC-B061-ADCF8721F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAEB955-AF90-4DAC-B061-ADCF8721F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAEB955-AF90-4DAC-B061-ADCF8721F73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0CCC13-01CC-4D31-A10F-7DA6DDAAA3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0CCC13-01CC-4D31-A10F-7DA6DDAAA3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0CCC13-01CC-4D31-A10F-7DA6DDAAA3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0CCC13-01CC-4D31-A10F-7DA6DDAAA3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

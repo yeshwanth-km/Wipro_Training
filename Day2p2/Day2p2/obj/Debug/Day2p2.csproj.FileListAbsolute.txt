@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\bin\Debug\Day2p2.exe.config
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\bin\Debug\Day2p2.exe
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\bin\Debug\Day2p2.pdb
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\obj\Debug\Day2p2.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\obj\Debug\Day2p2.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\obj\Debug\Day2p2.exe
+C:\Users\YESHWANTH\source\repos\Day2p2\Day2p2\obj\Debug\Day2p2.pdb

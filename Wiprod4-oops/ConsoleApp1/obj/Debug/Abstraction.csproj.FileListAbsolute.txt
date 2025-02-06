@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\YESHWANTH\source\repos\Wiprod4-oops\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

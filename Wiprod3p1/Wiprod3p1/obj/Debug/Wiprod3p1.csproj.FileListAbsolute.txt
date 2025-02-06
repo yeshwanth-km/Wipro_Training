@@ -1,0 +1,7 @@
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\bin\Debug\Wiprod3p1.exe.config
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\bin\Debug\Wiprod3p1.exe
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\bin\Debug\Wiprod3p1.pdb
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\obj\Debug\Wiprod3p1.csproj.AssemblyReference.cache
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\obj\Debug\Wiprod3p1.csproj.CoreCompileInputs.cache
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\obj\Debug\Wiprod3p1.exe
+C:\Users\YESHWANTH\source\repos\Wiprod3p1\Wiprod3p1\obj\Debug\Wiprod3p1.pdb
