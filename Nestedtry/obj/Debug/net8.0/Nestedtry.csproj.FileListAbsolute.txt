@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\bin\Debug\net8.0\Nestedtry.exe
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\bin\Debug\net8.0\Nestedtry.deps.json
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\bin\Debug\net8.0\Nestedtry.runtimeconfig.json
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\bin\Debug\net8.0\Nestedtry.dll
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\bin\Debug\net8.0\Nestedtry.pdb
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.dll
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\refint\Nestedtry.dll
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.pdb
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\Nestedtry.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WiproDay6\Nestedtry\obj\Debug\net8.0\ref\Nestedtry.dll
