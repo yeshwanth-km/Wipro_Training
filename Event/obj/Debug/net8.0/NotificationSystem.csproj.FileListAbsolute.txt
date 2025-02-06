@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WiproDay7\Event\bin\Debug\net8.0\NotificationSystem.exe
+C:\Users\Administrator\source\repos\WiproDay7\Event\bin\Debug\net8.0\NotificationSystem.deps.json
+C:\Users\Administrator\source\repos\WiproDay7\Event\bin\Debug\net8.0\NotificationSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\WiproDay7\Event\bin\Debug\net8.0\NotificationSystem.dll
+C:\Users\Administrator\source\repos\WiproDay7\Event\bin\Debug\net8.0\NotificationSystem.pdb
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.dll
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\refint\NotificationSystem.dll
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.pdb
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\NotificationSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WiproDay7\Event\obj\Debug\net8.0\ref\NotificationSystem.dll

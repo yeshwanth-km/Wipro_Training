@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\bin\Debug\net8.0\CoVarience_ContraVarience.exe
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\bin\Debug\net8.0\CoVarience_ContraVarience.deps.json
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\bin\Debug\net8.0\CoVarience_ContraVarience.runtimeconfig.json
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\bin\Debug\net8.0\CoVarience_ContraVarience.dll
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\bin\Debug\net8.0\CoVarience_ContraVarience.pdb
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.dll
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\refint\CoVarience_ContraVarience.dll
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.pdb
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\CoVarience_ContraVarience.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WiproDay7\CoVarience_ContraVarience\obj\Debug\net8.0\ref\CoVarience_ContraVarience.dll
