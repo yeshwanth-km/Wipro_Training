@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\bin\Debug\net8.0\Yieldreturn.exe
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\bin\Debug\net8.0\Yieldreturn.deps.json
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\bin\Debug\net8.0\Yieldreturn.runtimeconfig.json
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\bin\Debug\net8.0\Yieldreturn.dll
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\bin\Debug\net8.0\Yieldreturn.pdb
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.dll
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\refint\Yieldreturn.dll
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.pdb
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\Yieldreturn.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WiproDay6\Yieldreturn\obj\Debug\net8.0\ref\Yieldreturn.dll
